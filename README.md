@@ -55,7 +55,10 @@ Test transaction script
 /send 802a8e80040000089900
 
 
-
+Exporting
+=========
+the card applet should be exported to a jar file.  the jar file should be exported from the project and should 
+be uploaded to the simplytapp server with the card agent jar file.
 
 
  
